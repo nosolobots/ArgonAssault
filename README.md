@@ -12,6 +12,7 @@ Rail shooter que emplea Timeline para la navegación del jugador sobre el mapa.
 
 <center>
 
+![gameplay](Docs/gameplay.png)
 
 </center>
 
